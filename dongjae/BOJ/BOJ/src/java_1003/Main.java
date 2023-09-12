@@ -2,6 +2,7 @@ package java_1003;
 
 import java.util.Scanner;
 
+// 백준 1003
 public class Main {
 
     static Integer[][] dp = new Integer[41][2];
