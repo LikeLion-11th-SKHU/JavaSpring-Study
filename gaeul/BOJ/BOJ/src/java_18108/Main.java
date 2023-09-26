@@ -8,7 +8,7 @@ public class Main {
         int year = scanner.nextInt();
 
         final int DIF = 2541 - 1998;
-//질문: final 붙이는 이유
+
         System.out.println(year - DIF);
 
         scanner.close();
