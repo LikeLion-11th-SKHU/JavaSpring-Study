@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4118ca31-25e4-40cc-bf18-791bc0473188" name="Changes" comment="" />
+    <list default="true" id="4118ca31-25e4-40cc-bf18-791bc0473188" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../untitled/src/java_2884/TimeCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/src/java_2884/TimeCalculator.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,9 +30,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2VsXlvKNztnM81kXAFiirXMRJX2" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -51,6 +53,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "spring.configuration.checksum": "8bf8e8db1c50dc7faa5cdb600e4556d1",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -72,6 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1695625918147</updated>
       <workItem from="1695625919168" duration="468000" />
+      <workItem from="1697934323009" duration="10000" />
     </task>
     <servers />
   </component>
